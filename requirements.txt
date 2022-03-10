@@ -4,7 +4,6 @@ certifi==2020.11.8
 chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
-DAWG-Python==0.7.2
 docopt==0.6.2
 docxtpl==0.11.3
 Flask==1.1.2
@@ -18,11 +17,8 @@ MarkupSafe==1.1.1
 matplotlib==3.3.4
 pi==0.1.2
 python-dateutil==2.8.1
-python-docx==0.8.10
-python-pptx==0.6.18
 pytz==2021.3
 requests==2.25.0
-schedule==1.1.0
 scipy==1.6.0
 six==1.15.0
 soupsieve==2.0.1
